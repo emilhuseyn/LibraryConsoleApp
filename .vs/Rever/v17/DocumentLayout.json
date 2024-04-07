@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Rever\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3063EB59-E557-468E-A368-4FE6176D100B}|Rever\\Rever.csproj|c:\\users\\hp\\source\\repos\\rever\\rever\\bookoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3063EB59-E557-468E-A368-4FE6176D100B}|Rever\\Rever.csproj|solutionrelative:rever\\bookoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063EB59-E557-468E-A368-4FE6176D100B}|Rever\\Rever.csproj|c:\\users\\hp\\source\\repos\\rever\\rever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3063EB59-E557-468E-A368-4FE6176D100B}|Rever\\Rever.csproj|solutionrelative:rever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3063EB59-E557-468E-A368-4FE6176D100B}|Rever\\Rever.csproj|c:\\users\\hp\\source\\repos\\rever\\rever\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3063EB59-E557-468E-A368-4FE6176D100B}|Rever\\Rever.csproj|solutionrelative:rever\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookOperations.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Rever\\Rever\\BookOperations.cs",
+              "RelativeDocumentMoniker": "Rever\\BookOperations.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Rever\\Rever\\BookOperations.cs",
+              "RelativeToolTip": "Rever\\BookOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:05:20.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Rever\\Rever\\Book.cs",
+              "RelativeDocumentMoniker": "Rever\\Book.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Rever\\Rever\\Book.cs",
+              "RelativeToolTip": "Rever\\Book.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T06:59:58.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Rever\\Rever\\Program.cs",
+              "RelativeDocumentMoniker": "Rever\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Rever\\Rever\\Program.cs",
+              "RelativeToolTip": "Rever\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:52:17.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

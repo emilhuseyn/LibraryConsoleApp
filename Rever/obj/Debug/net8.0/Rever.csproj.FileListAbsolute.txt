@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Rever\Rever\bin\Debug\net8.0\Rever.exe
+C:\Users\HP\source\repos\Rever\Rever\bin\Debug\net8.0\Rever.deps.json
+C:\Users\HP\source\repos\Rever\Rever\bin\Debug\net8.0\Rever.runtimeconfig.json
+C:\Users\HP\source\repos\Rever\Rever\bin\Debug\net8.0\Rever.dll
+C:\Users\HP\source\repos\Rever\Rever\bin\Debug\net8.0\Rever.pdb
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.AssemblyInfo.cs
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.dll
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\refint\Rever.dll
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.pdb
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.genruntimeconfig.cache
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\ref\Rever.dll
