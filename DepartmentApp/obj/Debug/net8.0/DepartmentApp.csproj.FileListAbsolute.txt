@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Rever\DepartmentApp\bin\Debug\net8.0\DepartmentApp.exe
+C:\Users\HP\source\repos\Rever\DepartmentApp\bin\Debug\net8.0\DepartmentApp.deps.json
+C:\Users\HP\source\repos\Rever\DepartmentApp\bin\Debug\net8.0\DepartmentApp.runtimeconfig.json
+C:\Users\HP\source\repos\Rever\DepartmentApp\bin\Debug\net8.0\DepartmentApp.dll
+C:\Users\HP\source\repos\Rever\DepartmentApp\bin\Debug\net8.0\DepartmentApp.pdb
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\DepartmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\DepartmentApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\DepartmentApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\DepartmentApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\DepartmentApp.sourcelink.json
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\DepartmentApp.dll
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\refint\DepartmentApp.dll
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\DepartmentApp.pdb
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\DepartmentApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\Rever\DepartmentApp\obj\Debug\net8.0\ref\DepartmentApp.dll

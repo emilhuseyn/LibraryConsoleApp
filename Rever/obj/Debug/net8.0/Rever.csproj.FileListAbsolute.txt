@@ -12,3 +12,4 @@ C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\refint\Rever.dll
 C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.pdb
 C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.genruntimeconfig.cache
 C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\ref\Rever.dll
+C:\Users\HP\source\repos\Rever\Rever\obj\Debug\net8.0\Rever.sourcelink.json
